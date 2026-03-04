@@ -21,12 +21,6 @@
 
 ---
 
-<div align="center">
+## GitHub Stats
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zayhnahmed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Zayhn's Stats" width="400" />
-
-</div>
-
-![Half year calendar](./github-metrics.svg)
-
-![Views](https://yourdomain.com/svg/count/7/Repository%20Views/Seikatsu)
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zayhnahmed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Zayhn's Stats" width="400" /> ![Half year calendar](./github-metrics.svg)
