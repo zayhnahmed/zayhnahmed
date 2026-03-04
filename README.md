@@ -13,7 +13,7 @@
 
 <div align="center">
 
-## Language & Tools
+## Languages & Tools
 
 <img src="https://skillicons.dev/icons?i=react,angular,typescript,python,fastapi,nodejs,javascript,html,css,tailwindcss,firebase,mongodb,mysql,postgresql,git,vscode,notion,obsidian" />
 
